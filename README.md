@@ -10,17 +10,17 @@
 
 -
 
-  ### Installation
+  ## Installation
   
   ```
   npm i
   ```
 
-  ### Usage
+  ## Usage
 
   Ensure that you have an API client installed such as insomnia. Clone this repo and then start the server using `npm start`. Use the following routes to try out the App.
 
-   ###User Routes
+   User Routes
    ---
    - GET all users `localhost:3001/api/users`
    - GET user by Id `localhost:3001/api/users/:userId`
@@ -28,7 +28,7 @@
    - PUT user `localhost:3001/api/users/:userId`
    - DELETE `localhost:3001/api/users/:userId`
 
-   ###Thought Routes
+   Thought Routes
    ---
    - GET all thoughts `localhost:3001/api/thoughts`
    - GET thought by Id `localhost:3001/api/thoughts/:userId`
@@ -36,18 +36,18 @@
    - PUT thought `localhost:3001/api/thoughts/:thoughtId`
    - DELETE `localhost:3001/api/thoughts/:thoughtId`
 
-   ###Reaction Routes
+   Reaction Routes
    ---
    - POST reaction `localhost:3001/api/:thoughtId/reactions`
    - DELETE reaction `localhost:3001/api/:thoughtId/reactions/:reactionId`
 
-   ###Friend Routes
+   Friend Routes
    ---
    - POST('add') friend `localhost:3001/api/users/:id/friends/:friendId`
    - DELETE friend `localhost:3001/api/users/:id/friends/:friendId`
 
 
-  ### Contributing
+  ## Contributing
   
  Samantha Brown (c) Github - https://github.com/SamMichBrown
 
