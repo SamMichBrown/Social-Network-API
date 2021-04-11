@@ -9,7 +9,7 @@ const reactionSchema = new Schema(
             default: () => new Types.ObjectId()
         },
         reactionBody: {
-            type: String.apply,
+            type: String,
             maxlength: 280
         },
         username: {
