@@ -11,7 +11,7 @@ const {
 
 // POST A THOUGHT //
 router
-.route('/:userId')
+.route('/')
 .post(addThought);
 
 // GET ALL THOUGHTS //

@@ -1,4 +1,4 @@
-const { User } = require('../social-network-api/models');
+const { User } = require('../models');
 
 const userController = {
     // GET ALL USERS //

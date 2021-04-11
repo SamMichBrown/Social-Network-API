@@ -3,16 +3,18 @@ const dateFormat = require('../utils/dateFormat');
 
 const reactionSchema = new Schema(
     {
-        // custom id to prevent conflict with thought _id
+        // CUSTOM ID TO PREVENT CONFLICTS WITH THE THOUGHT ID //
         reactionId: {
             type: Schema.Types.ObjectId,
             default: () => new Types.ObjectId()
         },
         reactionBody: {
-            type: String
+            type: String.apply,
+            maxlength: 280
         },
-        writtenBy: {
-            type: String
+        username: {
+            type: String,
+            required: 'A reaction is required',
         },
         createdAt: {
             type: Date,
@@ -51,7 +53,7 @@ const ThoughtSchema = new Schema ({
         virtuals: true,
         getters: true
     },
-    id: false
+    id: true
 }
 );
 
