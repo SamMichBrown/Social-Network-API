@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johannt91/social-network-api.git"
+    "url": "git+https://github.com/SamMichBrown/Social-Network-API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johannt91/social-network-api/issues"
+    "url": "https://github.com/SamMichBrown/Social-Network-API/issues"
   },
-  "homepage": "https://github.com/johannt91/social-network-api#readme",
+  "homepage": "https://github.com/SamMichBrown/Social-Network-API#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.12.3"
