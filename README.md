@@ -49,6 +49,19 @@
 
   ## Contributing
   
- Samantha Brown (c) Github - https://github.com/SamMichBrown
+  Samantha Brown (c) Github - https://github.com/SamMichBrown
 
-## Screenshots
+  ## Screenshots
+
+  ### Create a new user
+  ---
+  ![Screenshot 2021-04-11 193957](https://user-images.githubusercontent.com/71106177/114325372-c5bf8b00-9afd-11eb-8680-af1320b686eb.png)
+
+  ### Get all users
+  ---
+  ![find all users](https://user-images.githubusercontent.com/71106177/114325402-f6072980-9afd-11eb-92d5-1653468867fb.png)
+
+  ### Get all thoughts
+  ---
+  ![get all thoughts](https://user-images.githubusercontent.com/71106177/114325413-08816300-9afe-11eb-93c7-cd1bf0b128a9.png)
+
