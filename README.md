@@ -41,7 +41,7 @@
    Reaction Routes
    ---
    - POST reaction `localhost:3001/api/:thoughtId/reactions`
-   - DELETE reaction `localhost:3001/api/:thoughtId/reactions/:reactionId`
+   - DELETE reaction `localhost:3001/api/thought/:thoughtId/reactions/:reactionId`
 
    Friend Routes
    ---
