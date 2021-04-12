@@ -4,11 +4,13 @@
 
   This App uses NoSQL and Mongoose functionality to create a simple Social Network, using CRUD functions on users, friends thoughts (like posts!) and even reactions on a particular users thought!
 
-  Links: 
+  Video Links: 
   
--
+- Part 1: https://drive.google.com/file/d/1uw6sjwe4hHk1Soe68mQJCpyQQ_nL_OJi/view
 
--
+- Part 2: https://drive.google.com/file/d/1bxssrYItpcSFaWX8dKs34H-P9utXLozj/view
+
+- Part 3: https://drive.google.com/file/d/1Q0KZOdc_B0mKOyKjvTHCk1lL5-yTrtOg/view
 
   ## Installation
   
